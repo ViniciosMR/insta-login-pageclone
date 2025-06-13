@@ -3,7 +3,7 @@ Olá, bem vindo ao meu projeto.
 
 
 
-Nesse projeto voce irá encontrar uma pagina colne de login da rede social instagram.
+Nesse projeto voce irá encontrar uma pagina clone de login da rede social instagram feita com html e css.
 
 
 Nesse projeto utilizei as principais regras de flexbox, responsividade, shorthands.
